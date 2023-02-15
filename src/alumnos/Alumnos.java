@@ -4,7 +4,6 @@ import Alumno.Alumno;
 import java.util.Scanner;
 
 /**
- * Clase Alumno
  * @author Jiada Chen
  */
 public class Alumnos {
