@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Alumnos {
     /**
      * Define la estructura, un array de 5 alumnos pero no crea los objetos
-     * @param args argoritmo
+     * @param args the command line arguments
      */
     public static void main(String[] args) {
         Alumno[] alum = new Alumno[5];
